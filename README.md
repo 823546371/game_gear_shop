@@ -1,16 +1,26 @@
-# game_gear_shop
+# Flutter UI - Gaming Gear Shop
 
-A new Flutter project.
+English------[中文](README_CN.md)
 
-## Getting Started
+### Introduction
 
-This project is a starting point for a Flutter application.
+Gaming Gear Shop
 
-A few resources to get you started if this is your first Flutter project:
+### Video
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+YouTube : [Watch it on YouTube](https://youtu.be/ZyJYdiHYsHs)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bilibili : [Watch it on Bilibili](https://www.bilibili.com/video/BV1ha4y1a785/)
+
+### UI 
+
+ - Gaming Gear Shop UI Design by [Chouaib Belagoun](https://www.uplabs.com/chouaib45)
+
+
+### Gaming Gear Shop Design UI
+
+![00](00.png)
+
+### Gaming Gear Shop Final UI
+
+<div align=center> <img src = '01.png' width = '300' >  <img src = '02.png' width = '300' >
